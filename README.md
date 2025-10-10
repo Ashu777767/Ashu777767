@@ -9,14 +9,7 @@
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=TN08VQAYue&animated=true&theme=dark)
 
-## 🏆 My LeetCode Achievements
 
-<!-- Animated Live Badges -->
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=TN08VQAYue&animated=true&theme=dark&border=no-border)
-
-<!-- Milestone Badges -->
-![50 Days Streak](https://img.shields.io/badge/50%20Days-Streak-green?style=for-the-badge) 
-![100 Days Streak](https://img.shields.io/badge/100%20Days-Streak-blue?style=for-the-badge)
 
 <!---
 Ashu777767/Ashu777767 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
