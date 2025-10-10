@@ -5,8 +5,10 @@
 - 📫 How to reach me ...@ashutosh2006jha@gmail.com
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA116)](https://leetcode.com/TN08VQAYue)
 
-![50 Days Streak](https://img.shields.io/badge/50%20Days-Streak-green?style=for-the-badge)
-![100 Days Streak](https://img.shields.io/badge/100%20Days-Streak-blue?style=for-the-badge)
+## 🏆 My LeetCode Badges
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=TN08VQAYue&animated=true&theme=dark)
+
 
 <!---
 Ashu777767/Ashu777767 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
