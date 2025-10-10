@@ -9,6 +9,11 @@
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=TN08VQAYue&animated=true&theme=dark)
 
+## 🏆 LeetCode Live Badges
+
+![50 Days Streak](https://img.shields.io/badge/50%20Days-Streak-green?style=for-the-badge) 
+![Current Streak](https://leetcode-streak-stats.demolab.com?user=TN08VQAYue&theme=dark) 
+![100 Days Streak](https://img.shields.io/badge/100%20Days-Streak-blue?style=for-the-badge)
 
 
 <!---
