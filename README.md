@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ashutosh
-- 👀 I’m interested in ...coding
-- Learning Full Stack Web Development.
+- BE Student | Learning Full Stack Web Development | Regular DSA Practice
 - 📫 How to reach me ...@ashutosh2006jha@gmail.com
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA116)](https://leetcode.com/TN08VQAYue)
 
