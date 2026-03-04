@@ -1,23 +1,22 @@
 <h1 align="center">Ashutosh Kumar Jha</h1>
-<h3 align="center">Software Development Learner | Data Structures & Algorithms | Full Stack Development</h3>
+<h3 align="center">Software Development | Data Structures & Algorithms | Full Stack Development</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Practicing+Data+Structures+and+Algorithms;Learning+Full+Stack+Development;Building+Projects+and+Improving+Problem+Solving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Practicing+Data+Structures+and+Algorithms;Learning+Full+Stack+Development;Building+Software+Systems" />
 </p>
 
 ---
 
 ## About
 
-Computer Science student focused on improving problem-solving skills and building software systems.
-Currently practicing Data Structures and Algorithms while learning full stack web development.
+Computer Science student focused on improving problem solving ability and building software systems.
 
-Areas of interest:
+Main areas of interest
 
-* Software Development
-* Backend Systems
-* Problem Solving and Algorithms
-* Building scalable applications
+* Software Engineering
+* Backend Development
+* Data Structures and Algorithms
+* Scalable Systems
 
 ---
 
@@ -39,8 +38,8 @@ Problem solving and algorithm practice.
 
 Achievements
 
-* 100 Days Badge
-* 50 Days Badge
+100 Days Badge
+50 Days Badge
 
 ---
 
@@ -64,12 +63,11 @@ Achievements
 
 ---
 
-## Development Focus
+## Developer Quote
 
-* Strengthening Data Structures and Algorithms
-* Building full stack applications
-* Writing clean and maintainable code
-* Preparing for software engineering roles
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -79,7 +77,7 @@ Email
 [ashutosh2006jha@gmail.com](mailto:ashutosh2006jha@gmail.com)
 
 GitHub
-https://github.com/Ashu777767
+github.com/Ashu777767
 
 LeetCode
-https://leetcode.com/TN08VQAYue
+leetcode.com/TN08VQAYue
