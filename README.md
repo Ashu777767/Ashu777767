@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I'm Ashutosh Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Kumar Jha</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Full+Stack+Web+Development+Learner;DSA+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ashu777767&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Ashu777767&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="https://leetcode.com/TN08VQAYue">
-<img src="https://leetcard.jacoblin.cool/TN08VQAYue?theme=dark&font=baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/TN08VQAYue?theme=dark&font=baloo&ext=contest"/>
 </a>
 </p>
 
@@ -61,6 +61,19 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashu777767&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics (3D Style Cards)
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashu777767&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashu777767&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashu777767&theme=tokyonight"/>
 </p>
 
 ---
