@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Kumar Jha</h1>
+<h1 align="center">Hi , I'm Ashutosh Kumar Jha</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Full+Stack+Web+Development+Learner;DSA+Enthusiast;Always+Learning+New+Technologies" />
