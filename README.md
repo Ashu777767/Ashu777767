@@ -41,20 +41,16 @@ Primary interests:
 
 Algorithm practice and competitive programming.
 
-Achievements
+
 <h3 align="center">🔥 LeetCode Streak Badges</h3>
 
-<div align="center">
-
-<a href="https://leetcode.com/u/TN08VQAYue/">
-
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="80"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="80"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2026-50.gif" width="80"/>
-
-</a>
-
-</div>
+<p align="center">
+  <a href="https://leetcode.com/u/TN08VQAYue/">
+    <img src="YOUR_UPLOADED_IMAGE_1" width="85"/>
+    <img src="YOUR_UPLOADED_IMAGE_2" width="85"/>
+    <img src="YOUR_UPLOADED_IMAGE_3" width="85"/>
+  </a>
+</p>
 
 ---
 
