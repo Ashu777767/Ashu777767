@@ -41,27 +41,20 @@ Primary interests:
 
 Algorithm practice and competitive programming.
 
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/TN08VQAYue?theme=dark&font=baloo&ext=contest"/>
-
-</p>
-
 Achievements
+<h3 align="center">🔥 LeetCode Streak Badges</h3>
+
 <div align="center">
 
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="70"/>
-<img src="https://assets.leetcode.com/static_assets/others/2000.gif" width="70"/>
-<img src="https://assets.leetcode.com/static_assets/others/1500.gif" width="70"/>
+<a href="https://leetcode.com/u/TN08VQAYue/">
 
-<br/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" width="80"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" width="80"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2026-50.gif" width="80"/>
 
-<img src="https://assets.leetcode.com/static_assets/others/1000.gif" width="70"/>
-<img src="https://assets.leetcode.com/static_assets/others/500.gif" width="70"/>
+</a>
 
 </div>
-• 100 Days Badge
-• 50 Days Badge
 
 ---
 
