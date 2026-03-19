@@ -46,9 +46,9 @@ Algorithm practice and competitive programming.
 
 <p align="center">
   <a href="https://leetcode.com/u/TN08VQAYue/">
-    <img src="YOUR_UPLOADED_IMAGE_1" width="85"/>
-    <img src="YOUR_UPLOADED_IMAGE_2" width="85"/>
-    <img src="YOUR_UPLOADED_IMAGE_3" width="85"/>
+    <img src="img2025.png" width="85"/>
+    <img src="img100.png" width="85"/>
+    <img src="img2026.png" width="85"/>
   </a>
 </p>
 
