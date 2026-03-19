@@ -48,7 +48,18 @@ Algorithm practice and competitive programming.
 </p>
 
 Achievements
+<div align="center">
 
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="70"/>
+<img src="https://assets.leetcode.com/static_assets/others/2000.gif" width="70"/>
+<img src="https://assets.leetcode.com/static_assets/others/1500.gif" width="70"/>
+
+<br/>
+
+<img src="https://assets.leetcode.com/static_assets/others/1000.gif" width="70"/>
+<img src="https://assets.leetcode.com/static_assets/others/500.gif" width="70"/>
+
+</div>
 • 100 Days Badge
 • 50 Days Badge
 
