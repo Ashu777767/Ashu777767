@@ -1,3 +1,4 @@
+< <img src="banner.png" width="85"/>
 <h1 align="center">Ashutosh Kumar Jha</h1>
 
 <h3 align="center">
