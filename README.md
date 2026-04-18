@@ -1,4 +1,6 @@
-< <img src="banner.png" width="85"/>
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 <h1 align="center">Ashutosh Kumar Jha</h1>
 
 <h3 align="center">
